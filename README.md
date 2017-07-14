@@ -1,4 +1,5 @@
 # SLR Parser
+./slr rule.txt
 ## Precaution  
   None-terminals are in upper case.  
   Epsilon is '#'.  
