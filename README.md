@@ -1,8 +1,9 @@
-# Precaution  
+# SLR Parser
+## Precaution  
   None-terminals are in upper case.  
   Epsilon is '#'.  
   Non-terminals should not contain 'Z'.  
-# How to use  
+## How to use  
   FIRST Show first of all non-terminal.  
   FOLLOW Show follow of all non-terminal.  
   ACTION Show action-table.  
