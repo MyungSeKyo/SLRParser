@@ -1,0 +1,12 @@
+r1
+E>E+T
+r2
+E>T
+r3
+T>T*T
+r4
+T>F
+r5
+F>(E)
+r6
+F>x
